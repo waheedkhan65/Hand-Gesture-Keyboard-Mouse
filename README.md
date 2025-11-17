@@ -1,6 +1,3 @@
-Absolutely! Here’s a fully copy-paste-ready **README.md** for your project. You can directly create a `README.md` in your repo and paste this:
-
-````markdown
 # Hand Gesture Keyboard & Mouse
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -32,7 +29,7 @@ The **Hand Gesture Keyboard & Mouse** project is an innovative solution that all
 ```bash
 git clone https://github.com/waheedkhan65/Hand-Gesture-Keyboard-Mouse.git
 cd Hand-Gesture-Keyboard-Mouse
-````
+
 
 2. **Create a virtual environment:**
 
